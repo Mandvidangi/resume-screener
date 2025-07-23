@@ -1,0 +1,16 @@
+Job Title: QA Engineer
+
+We are looking for a QA Engineer to write automated test scripts, perform regression testing, and ensure product quality.
+
+Responsibilities:
+- Write and execute test cases using Selenium or PyTest
+- Identify and report bugs in JIRA
+- Work closely with devs for release validation
+
+Requirements:
+- Experience with automated testing frameworks
+- Good understanding of SDLC and Agile
+- Familiarity with Python or Java-based testing
+
+Bonus:
+- Exposure to CI/CD tools like Jenkins or GitHub Actions

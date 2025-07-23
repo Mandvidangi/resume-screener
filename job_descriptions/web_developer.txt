@@ -1,0 +1,16 @@
+Job Title: Full-Stack Web Developer
+
+Join our team to build and maintain web applications using modern JavaScript frameworks and Python-based backends.
+
+Responsibilities:
+- Build responsive frontends using React or Vue
+- Develop REST APIs using Django or Node.js
+- Connect frontends to APIs and databases
+
+Requirements:
+- Proficient in JavaScript, HTML, CSS
+- Experience with React, Node.js, Django or Flask
+- Strong Git and deployment workflow knowledge
+
+Nice to Have:
+- Experience with MongoDB, PostgreSQL, or Firebase

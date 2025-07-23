@@ -1,0 +1,16 @@
+Job Title: Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to design, build, and deploy ML pipelines in a production environment.
+
+Responsibilities:
+- Build scalable ML pipelines
+- Train models on large datasets using TensorFlow or PyTorch
+- Collaborate with data scientists and backend engineers
+
+Requirements:
+- Strong programming skills in Python
+- Experience with TensorFlow, PyTorch, MLflow
+- Familiarity with MLOps and cloud platforms
+
+Preferred:
+- Experience with Docker, Kubernetes, or Vertex AI

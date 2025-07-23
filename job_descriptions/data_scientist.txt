@@ -1,0 +1,17 @@
+Job Title: Data Scientist
+
+We are seeking a highly skilled Data Scientist to analyze large datasets, build predictive models, and uncover business insights. You will collaborate with engineers and product managers to translate data into strategic recommendations.
+
+Responsibilities:
+- Build machine learning models in Python
+- Perform A/B testing and statistical analysis
+- Visualize data trends using Seaborn/Matplotlib/Tableau
+- Query large datasets using SQL
+
+Requirements:
+- Strong Python, pandas, scikit-learn, and NumPy skills
+- Experience with SQL and data wrangling
+- Bachelor's or Master’s in CS, Statistics, or similar
+
+Preferred:
+- Experience with AWS/GCP, Airflow, or Spark

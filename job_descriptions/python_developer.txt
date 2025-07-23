@@ -1,0 +1,16 @@
+Job Title: Python Developer
+
+We are hiring a Python Developer to work on backend services, REST APIs, and data pipelines. You'll write clean, testable code and integrate with frontend and cloud systems.
+
+Responsibilities:
+- Design APIs using Flask or FastAPI
+- Build data ingestion pipelines
+- Write unit tests and maintain CI/CD pipelines
+
+Requirements:
+- 2+ years with Python
+- Experience with Flask, FastAPI, SQLAlchemy
+- Familiarity with Git, Docker, and RESTful APIs
+
+Nice to Have:
+- Knowledge of AWS Lambda or Azure Functions
